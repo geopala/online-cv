@@ -43,24 +43,13 @@ education:
       university: Ionian University
       time: 2007 - 2021
       details: |
-        The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT professional, either as
-        self-employed, or as an executive in the private or public sector. More specifically he can be employed as:
-
+        The graduate of the Department of Informatics has the scientific and technical expertise
+        to work as an IT professional, either as self-employed, or as an executive in the private or public sector. 
+        More specifically he can be employed as:
           - Software Engineer
           - Computer Systems Engineer
           - Network and Telecommunications Engineer / Administrator
           - Database Administrator
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
