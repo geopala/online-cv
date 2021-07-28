@@ -97,9 +97,9 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Planning a smart city's strategy and the value of open data
         link: "#"
-        authors: Donald E. Knuth
+        authors: George Palantzas
         conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
