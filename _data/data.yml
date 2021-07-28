@@ -67,9 +67,9 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Velocity
+      - title: OpenValue
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Measuring the value of official municipal open data in a smart city."
 
 publications:
     title: Publications
